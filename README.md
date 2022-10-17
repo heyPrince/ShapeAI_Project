@@ -7,7 +7,7 @@ learn a lot during these 7 days and it was an amazing experience learning with S
 <a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulHqBNcsk_zeuy1RTKePPcg"> <img src="https://www.itprotoday.com/sites/itprotoday.com/files/styles/article_featured_retina/public/hacker1.jpg?itok=vXSPTgBB"> </a>
 <br>I got to have hands on experience on:
 <li>Python
-<li>Neural Networks
+<li>Neural Networks<br>
 <li>CNNs
 <br>during these 7 days, and everything was explained from the very basics so that
 anyone with zero experience on programming can learn.
